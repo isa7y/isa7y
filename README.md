@@ -1,6 +1,8 @@
 oi pessoal
 
-sou uma criança de 7 anos logando nesse app so pra ficar bonitinho no dc
+➦ 7 anos
+
+➦ estudando no 2 ano funamental
 
 
  <a href="https://github.com/isa7y">
