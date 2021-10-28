@@ -1,7 +1,7 @@
 oi pessoal , 
  
-
-essas são algumas informações sobre mim
+ 
+ 
 ㅤ
 ㅤ
 
