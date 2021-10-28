@@ -26,6 +26,6 @@ sou uma criança de 7 anos logando nesse app so pra ficar bonitinho no dc
 </div>
 
  
- ![Snake animation](https://github.com/rafaballerni/rafaballerni/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
  
