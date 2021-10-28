@@ -11,7 +11,6 @@ sou uma criança de 7 anos logando nesse app so pra ficar bonitinho no dc
  ㅤ
  
  
- 
   ㅤㅤㅤ
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -21,7 +20,9 @@ sou uma criança de 7 anos logando nesse app so pra ficar bonitinho no dc
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="7y-pic" height="150" style="border-radius:50px;" src="6">
-</div>
+ 
+ 
+ 
   
   ##
  
