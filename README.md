@@ -19,7 +19,7 @@ sou uma criança de 7 anos logando nesse app so pra ficar bonitinho no dc
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="7y" height="150" style="border-radius:50px;" src="6">
+  <img align="right" alt="y7" height="150" style="border-radius:50px;" src="6">
  
  
  
