@@ -1,5 +1,6 @@
-oi pessoal
-
+oi pessoal ,
+ㅤ
+ㅤ
 ➦ 7 anos
 
 ➦ estudando no 2 ano funamental
