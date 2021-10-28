@@ -5,9 +5,9 @@ oi pessoal ,
 ㅤ
 ㅤ
 
-➦ 7 anos
+➦ tenho 7 anos
 
-➦ estudando no 2 ano funamental
+➦ estou no 2 ano funamental
 
 
  <a href="https://github.com/isa7y">
