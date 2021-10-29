@@ -7,7 +7,7 @@ oi pessoal ,
 
 ➦ tenho 7 anos
 
-➦ estou no 2 ano do funamental
+➦ estou no 2 ano do fundamental
 
 
  <a href="https://github.com/isa7y">
